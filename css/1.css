@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(130, 220, 0);
+    font-family: 'Times New Roman', Times, serif, sans-serif;
+}
+
+h1 {
+    font-size: 52px;
+    font-weight: bold;
+}
+
+p {
+    font-size: 21px;
+    color: black;
+}
+
+em {
+    font-style: italic;
+    color: pink;
+}
